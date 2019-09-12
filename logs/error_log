@@ -1,0 +1,26 @@
+[Thu Sep 05 16:05:59 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Sep 05 20:24:59 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Sep 05 21:33:38 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Sep 05 23:41:57 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Fri Sep 06 04:24:18 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Fri Sep 06 04:28:17 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Fri Sep 06 09:33:49 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Fri Sep 06 11:24:32 2019] [error] [client 128.248.2.59] File does not exist: /var/www/people/bwharris/favicon.ico, referer: https://bwharris.people.uic.edu/
+[Fri Sep 06 14:42:35 2019] [error] [client 128.248.2.59] File does not exist: /var/www/people/bwharris/favicon.ico, referer: https://bwharris.people.uic.edu/
+[Sat Sep 07 04:44:27 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Sep 07 04:48:06 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Sep 07 04:50:22 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sun Sep 08 03:30:12 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sun Sep 08 03:34:20 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Mon Sep 09 06:12:47 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Mon Sep 09 06:16:48 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Tue Sep 10 04:44:26 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Tue Sep 10 04:48:25 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Sep 11 04:50:48 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Sep 11 04:54:12 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Sep 11 04:57:02 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Sep 11 19:09:47 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Sep 11 20:56:22 2019] [error] [client 99.42.23.141] File does not exist: /var/www/people/bwharris/favicon.ico, referer: https://bwharris.people.uic.edu/
+[Thu Sep 12 04:06:06 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Sep 12 04:09:53 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Sep 12 04:12:46 2019] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
